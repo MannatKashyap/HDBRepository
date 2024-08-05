@@ -1,5 +1,5 @@
 myservice:
-  greeting: "From common config server of application properties & activated profile is dev environment!"
+  greeting: "Dev-envirnoment::::config server of application properties & activated profile is dev environment!"
   
         
 eureka:
