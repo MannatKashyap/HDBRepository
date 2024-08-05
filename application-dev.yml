@@ -1,5 +1,5 @@
 myservice:
-  greeting: "Dev-envirnoment::::config server of application properties & activated profile is dev environment!"
+  greeting: "Activated profie is ::: DEV from config server, application-dev.yml!!!!!!!!"
   
         
 eureka:
